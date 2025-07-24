@@ -10,8 +10,8 @@ st.set_page_config(
     page_title="Mantar Sınıflandırıcı",
     page_icon="images/msh.png",
     menu_items={
-        "Get help": "mailto:betulnur.demirhan@turktelekom.com.tr",
-        "About": "Daha Fazla Bilgi İçin\n" + "https://github.com/bnurdemirhan/datascience"
+        "Get help": "mailto:betulnur.demirhan@turktelekom.com.tr - onurmert.nemis@turktelekom.com.tr",
+        "About": "Daha Fazla Bilgi İçin\n" + "https://github.com/1OMN"
     }
 )
 
